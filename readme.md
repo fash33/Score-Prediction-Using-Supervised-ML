@@ -1,0 +1,1 @@
+A supervised model that predicts the score of a student based on the number of study hours.
